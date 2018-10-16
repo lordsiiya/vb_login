@@ -1,0 +1,9 @@
+E:\DataFiles\oldDocuments\Visual Studio 2010\Projects\LOGIN VB\bin\Debug\LOGIN VB.exe
+E:\DataFiles\oldDocuments\Visual Studio 2010\Projects\LOGIN VB\bin\Debug\LOGIN VB.pdb
+E:\DataFiles\oldDocuments\Visual Studio 2010\Projects\LOGIN VB\bin\Debug\LOGIN VB.xml
+E:\DataFiles\oldDocuments\Visual Studio 2010\Projects\LOGIN VB\obj\x86\Debug\LOGIN_VB.Form1.resources
+E:\DataFiles\oldDocuments\Visual Studio 2010\Projects\LOGIN VB\obj\x86\Debug\LOGIN_VB.Resources.resources
+E:\DataFiles\oldDocuments\Visual Studio 2010\Projects\LOGIN VB\obj\x86\Debug\LOGIN VB.vbproj.GenerateResource.Cache
+E:\DataFiles\oldDocuments\Visual Studio 2010\Projects\LOGIN VB\obj\x86\Debug\LOGIN VB.exe
+E:\DataFiles\oldDocuments\Visual Studio 2010\Projects\LOGIN VB\obj\x86\Debug\LOGIN VB.xml
+E:\DataFiles\oldDocuments\Visual Studio 2010\Projects\LOGIN VB\obj\x86\Debug\LOGIN VB.pdb
